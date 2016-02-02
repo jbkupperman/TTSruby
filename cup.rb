@@ -34,7 +34,7 @@ class Cup #Use Caps for classes
   end
 
   def beer_bong
-    puts "CHUG CHUG CHUG!!!"
+    puts "CHUG CHUG CHUG!!!!!!"
     @drink_amount = 0
   end
 end
